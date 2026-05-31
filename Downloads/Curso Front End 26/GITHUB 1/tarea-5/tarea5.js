@@ -29,7 +29,7 @@ console.log("Secuencia de Fibonacci hasta 1000");
 let a = 0;
 let b = 1;
 
-while (a <= 1000) {
+for (let i = 0; a <= 1000; i++) {
   console.log(a);
 
   let siguiente = a + b;
