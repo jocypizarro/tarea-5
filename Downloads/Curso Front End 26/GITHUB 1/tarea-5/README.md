@@ -1,41 +1,23 @@
-# 🧠 Tarea 5 - Lógica con JavaScript
+# Tarea 5 - JavaScript
 
-Este proyecto corresponde a la Tarea 5 del curso de Front End, donde se aplican conceptos básicos de lógica de programación usando JavaScript.
-
----
-
-## 🚀 Contenidos desarrollados
-
-### 🔢 1. Números pares
-Se muestran en consola los números pares entre 0 y 1000 utilizando un ciclo `for` y una condición.
-
-### 🔢 2. Números impares
-Se muestran en consola los números impares entre 0 y 1000 utilizando un ciclo `for`.
-
-### 🔁 3. Secuencia de Fibonacci
-Se genera la secuencia de Fibonacci hasta el número 1000 utilizando un ciclo `while`.
-
-### 🔤 4. Arreglo en mayúsculas
-Se transforma un arreglo de strings a mayúsculas usando el método `map()`.
-
-### 🔥 5. Filtrado de Pokémon tipo fuego
-Se filtran objetos de un arreglo usando el método `filter()` para obtener solo los Pokémon de tipo fuego.
+Esta tarea consiste en practicar lógica básica en JavaScript usando ciclos, condiciones y métodos de arreglos.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Ejercicios realizados
 
-- JavaScript
-- Node.js
-- Visual Studio Code
+1. Mostrar números pares entre 0 y 1000  
+2. Mostrar números impares entre 0 y 1000  
+3. Mostrar la secuencia de Fibonacci hasta 1000  
+4. Convertir un arreglo de strings a mayúsculas  
+5. Filtrar un arreglo de objetos (Pokémon tipo fuego)  
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+## Tecnologías usadas
 
-1. Clonar el repositorio
-2. Abrir la carpeta en Visual Studio Code
-3. Ejecutar en la terminal:
+- JavaScript  
+- Node.js  
+- Visual Studio Code  
 
-```bash
-node tarea5.js
+---
